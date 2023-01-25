@@ -8,10 +8,10 @@ For this lab, we are remotely connecting to a course-specific account. After set
     The first step is to install VS Code, making sure to pick the right version for your OS. I followed the link below and picked the option for Windows. 
 
     [https://code.visualstudio.com/download](https://code.visualstudio.com/download)	
-    
-    This is how it look once it was fully installed and I opened it.
 
     ![image](VScodeScreen.JPG)
+        
+    This is how it look once it was fully installed and I opened it.
 
 2. **Windows Extra Steps**
     
