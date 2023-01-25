@@ -18,8 +18,8 @@ For this lab, we are remotely connecting to a course-specific account. After set
     Then, I had to change the terminal in VS code to match one of Linux or IOS. I did this by downloading Git Bash.
 
     Then, I used the command palette to change the terminal, as shown below.
-
-    ![image](GitBash.JPG)
+    
+    ![image](GitBash.jpg)
 
 3. **Remotely Connecting**
 
