@@ -33,7 +33,7 @@ Here is my code for StringServer.java
     }
 
 Here are two screenshots showing how /add-message behaves.
-![image](AddMessage1.jpg)
+![image](AddMessage1.JPG)
 
 First, Class Handler implements URLHandler. It inherits method handleRequest which was called first.
 
@@ -44,7 +44,7 @@ It used .split() on the query to seperate the words between the equal signs; tho
 That element was concatenated to String phrases plus a new line; that String was returned to then print on the page.
 
 
-![image](AddMessage2.jpg)
+![image](AddMessage2.JPG)
 
 "World" was concatenated along with a new line to print accordingly. 
 
@@ -87,7 +87,7 @@ A failure-inducing input would be:
     }
 
 
-![image](ReverseFailed.jpg)
+![image](ReverseFailed.JPG)
 
 A non-failure-inducing input would be:
 
@@ -98,7 +98,7 @@ A non-failure-inducing input would be:
         assertArrayEquals(new int[]{3,2,1}, ArrayExamples.reversed(input2));
 	}
 
-![image](ReversePassed.jpg)
+![image](ReversePassed.JPG)
 
 The issue with it is that the method is returning the original array. Additionally, inside the for-loop, elements of the original array were getting set those of the new one which by default are all 0. To fix this bug, I set elements of the newArray equal to the old one inside the loop, then returned the newArray.
 
