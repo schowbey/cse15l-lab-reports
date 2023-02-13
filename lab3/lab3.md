@@ -31,7 +31,7 @@ This command returned all instances of "wedding". For the demonstration purposes
 
 I added the -i command which caused grep to return instances of "wedding" and "Wedding" which is what we wanted.
 
-source: https://www.digitalocean.com/community/tutorials/grep-command-in-linux-unix
+source: [https://www.digitalocean.com/community/tutorials/grep-command-in-linux-unix](https://www.digitalocean.com/community/tutorials/grep-command-in-linux-unix)
 
 ---
 
@@ -55,7 +55,7 @@ I searched all the travel guides in berlitz1/ for the phrase "best place to". Th
 
 Next, I searched the travel guides in berlitz2/ for the phrase "best views". One thing to note is that it returned the same file name multiple times to account for multiple instances.
 
-source: https://www.tomshardware.com/how-to/grep-command-linux
+source: [https://www.tomshardware.com/how-to/grep-command-linux](https://www.tomshardware.com/how-to/grep-command-linux)
 
 ---
 
@@ -78,7 +78,7 @@ I searched for the number of instances of "India" in WhereToIndia.txt. The -c co
 
 Next, I searched for "beach" in California-WhatToDo.txt. There were 6 matches.
 
-source: https://man7.org/linux/man-pages/man1/grep.1.html
+source: [https://man7.org/linux/man-pages/man1/grep.1.html](https://man7.org/linux/man-pages/man1/grep.1.html)
 
 ---
 
@@ -101,4 +101,4 @@ I used grep to search for the phrase "Spanish" in chY.txt. The --color command w
 
 I used grep to search for the phrase "Research Project" in file chP.txt. The results were printed in red as expected.
 
-source: https://man7.org/linux/man-pages/man1/grep.1.html
+source: [https://man7.org/linux/man-pages/man1/grep.1.html](https://man7.org/linux/man-pages/man1/grep.1.html)
