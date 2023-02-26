@@ -71,4 +71,4 @@ The second command (git commit) committed the file to the main branch with the m
     git commit -m "Fixed ListExamples bug" 
     <enter>
 
-![image](Commit.jpg)
+![image](Commit.JPG)
